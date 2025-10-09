@@ -1,5 +1,7 @@
 # FLAMELING QUEENS ARTWORK
 
+_This code has been merged into [earn-labs/queens-dapp/artwork](https://github.com/earn-labs/queens-dapp/tree/main/artwork)_
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
 ![Node](https://img.shields.io/badge/node-v20.10.0-blue.svg?style=for-the-badge)
 ![NPM](https://img.shields.io/badge/npm-v10.2.3-blue?style=for-the-badge)
